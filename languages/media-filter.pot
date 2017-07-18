@@ -1,0 +1,172 @@
+# Copyright (C) 2014 Media Filter
+# This file is distributed under the same license as the Media Filter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Filter 0.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/media-filter\n"
+"POT-Creation-Date: 2014-04-16 18:44:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: media-filter.php:64
+msgid "Author"
+msgstr ""
+
+#: media-filter.php:65
+msgid "File Size"
+msgstr ""
+
+#: media-filter.php:66
+msgid "Width"
+msgstr ""
+
+#: media-filter.php:67
+msgid "Height"
+msgstr ""
+
+#: media-filter.php:108 media-filter.php:118
+msgid "&nbsp;"
+msgstr ""
+
+#: media-filter.php:173
+msgid "PDFs"
+msgstr ""
+
+#: media-filter.php:173
+msgid "Manage PDFs"
+msgstr ""
+
+#: media-filter.php:173
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:174
+msgid "ZIPs"
+msgstr ""
+
+#: media-filter.php:174
+msgid "Manage ZIPs"
+msgstr ""
+
+#: media-filter.php:174
+msgid "ZIP <span class=\"count\">(%s)</span>"
+msgid_plural "ZIPs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:175
+msgid "TXTs"
+msgstr ""
+
+#: media-filter.php:175
+msgid "Manage TXTs"
+msgstr ""
+
+#: media-filter.php:175
+msgid "TXT <span class=\"count\">(%s)</span>"
+msgid_plural "TXTs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:176
+msgid "CSSs"
+msgstr ""
+
+#: media-filter.php:176
+msgid "Manage CSSs"
+msgstr ""
+
+#: media-filter.php:176
+msgid "CSS <span class=\"count\">(%s)</span>"
+msgid_plural "CSSs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:177
+msgid "HTMLs"
+msgstr ""
+
+#: media-filter.php:177
+msgid "Manage HTMLs"
+msgstr ""
+
+#: media-filter.php:177
+msgid "HTML <span class=\"count\">(%s)</span>"
+msgid_plural "HTMLs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:178
+msgid "DOCs"
+msgstr ""
+
+#: media-filter.php:178
+msgid "Manage DOCs"
+msgstr ""
+
+#: media-filter.php:178
+msgid "DOC <span class=\"count\">(%s)</span>"
+msgid_plural "DOCs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:179
+msgid "PPTs"
+msgstr ""
+
+#: media-filter.php:179
+msgid "Manage PPTs"
+msgstr ""
+
+#: media-filter.php:179
+msgid "PPT <span class=\"count\">(%s)</span>"
+msgid_plural "PPTs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:180
+msgid "XLSXs"
+msgstr ""
+
+#: media-filter.php:180
+msgid "Manage XLSXs"
+msgstr ""
+
+#: media-filter.php:180
+msgid "XLSX <span class=\"count\">(%s)</span>"
+msgid_plural "XLSXs <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: media-filter.php:225
+msgid "Mine <span class=\"count\">(%s)</span>"
+msgid_plural "Mine <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Plugin Name of the plugin/theme
+msgid "Media Filter"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Media Filter 0.1.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Media Filter 0.1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://foxnet.fi/en"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Media Filter adds image width and height, clickable author link and 'mine' "
+"link in Media Library (upload.php)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr ""
